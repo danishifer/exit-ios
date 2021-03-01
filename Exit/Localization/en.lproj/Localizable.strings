@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  MyKey
+
+  Created by Dani Shifer on 2/7/20.
+  Copyright © 2020 Dani Shifer. All rights reserved.
+*/
+"nfc-prompt" = "Approach the Registration Terminal";
+
+"coming-soon" = "Coming Soon...";
+
+"service-unavailable" = "Service is temporarily unavailable, check your internet connection and try again";
+
+"done" = "Done";
+
+/* Welcome */
+"welcome-header" = "Welcome to MyKey";
+"welcome-continue" = "Continue";
+"welcome-continue-instruction" = "To continue, gather your\nactivation passcode";
+"welcome-use-as-card" = "Use as card";
+"welcome-use-as-card-desc" = "The MyKey App can replace your physical card when entering or exiting the school. Just place your phone near the scanners.";
+"welcome-permits" = "Permits";
+"welcome-permits-desc" = "Automatic approval of exit on defined hours. Send requests to staff for one-time exit permits.";
+"welcome-last-actions" = "Last Actions";
+"welcome-last-actions-desc" = "Track your last entrances and exits easily. Notifications will help you remember to scan your card or phone when passing through the gate.";
+
+/* Activation */
+"activation" = "Activation";
+"activation-given-name" = "Given Name (Hebrew)";
+"activation-given-name-placeholder" = "ישראל";
+"activation-family-name" = "Family Name (Hebrew)";
+"activation-family-name-placeholder" = "ישראלי";
+"activation-activation-code" = "Activation Code";
+"activation-activation-code-desc" = "10-Digit activation passcode";
+"activation-error-incorrect" = "Wrong name / activation code combination";
+"activation-error-temporary" = "Temporary system error, Try again later";
+
+/* Today */
+"today" = "Today";
+"no-actions-today" = "No Actions Today";
+
+"allowed-exit-time" = "Allowed Exit Time";
+
+"use-as-card" = "Use As Card";
+
+/* Permits */
+"permits" = "Permits";
+
+/* Account */
+"account" = "Account";
+"account-class" = "Class";
+"account-profile-header" = "Profile";
+"account-devices-header" = "Devices";
+"account-deactivate" = "Deactivate";
+"account-deactivate-title" = "Confirm Deactivation";
+"account-deactivate-message" = "You will have to contact staff to reactivate";
+"account-deactivate-confirm" = "Deactivate";
+"account-deactivate-cancel" = "Cancel";
+
+
+/* Action Approved */
+"action-approved" = "Approved";
+"action-approved-action" = "Action";
+"action-approved-status" = "Status";
+"action-approved-time" = "Time";
+"action-approved-date" = "Date";
+"action-approved-location" = "Location";
+"action-approved-identifier" = "Identifier";
+
+/* Action Rejected */
+"action-rejected" = "Rejected";
+"action-rejected-description" = "You can not exit at this time. For further assistance, please contact a system manager.";
+"today-actions-header" = "Actions";
+
+

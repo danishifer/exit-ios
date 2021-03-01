@@ -1,0 +1,15 @@
+/* 
+  Actions.strings
+  ExitStudents
+
+  Created by Dani Shifer on 12/18/19.
+  Copyright © 2019 Dani Shifer. All rights reserved.
+*/
+"_status-0" = "Pending";
+"_status-1" = "הפעולה אושרה";
+"_status-2" = "הפעולה נדחתה";
+"_checked-in" = "בשטח בית הספר";
+"_checked-out" = "מחוץ לבית הספר";
+"_unregistered" = "אין רישום";
+"enter" = "כניסה";
+"exit" = "יציאה";

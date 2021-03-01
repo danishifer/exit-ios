@@ -1,0 +1,133 @@
+
+/*  */
+"account" = "חשבון";
+
+/*  */
+"account-class" = "כיתה";
+
+
+"account-deactivate" = "התנתק";
+
+/*  */
+"account-deactivate-cancel" = "ביטול";
+
+/*  */
+"account-deactivate-confirm" = "התנתק";
+
+/*  */
+"account-deactivate-message" = "יהיה עליך ליצור קשר עם מנהל מערכת על מנת להתחבר מחדש";
+
+/*  */
+"account-deactivate-title" = "התנתק";
+
+
+"account-devices-header" = "מכשירים";
+
+
+"account-profile-header" = "פרופיל";
+
+/*  */
+"action-approved" = "הפעולה אושרה";
+
+/*  */
+"action-approved-action" = "פעולה";
+
+/*  */
+"action-approved-date" = "תאריך";
+
+/*  */
+"action-approved-identifier" = "מזהה פעולה";
+
+/*  */
+"action-approved-location" = "מיקום";
+
+/*  */
+"action-approved-status" = "סטטוס";
+
+/*  */
+"action-approved-time" = "שעה";
+
+/*  */
+"action-rejected" = "הפעולה נדחתה";
+
+"action-rejected-description" = "היציאה נדחתה: אין לכם אישור יציאה במערכת. אם אתם סבורים שמדובר בתקלה, פנו לאחראי מערכת.";
+
+"activation" = "הפעלה";
+
+/*  */
+"activation-activation-code" = "קוד הפעלה";
+
+/*  */
+"activation-activation-code-desc" = "קוד הפעלה בעל 10 ספרות";
+
+/*  */
+"activation-error-incorrect" = "שם המשתמש / קוד ההפעלה לא זוהה. נסו שנית או פנו לאחראי מערכת";
+
+/*  */
+"activation-error-temporary" = "תקלת מערכת זמנית, נסו שנית מאוחר יותר";
+
+/*  */
+"activation-family-name" = "שם משפחה";
+
+/*  */
+"activation-family-name-placeholder" = "ישראלי";
+
+/*  */
+"activation-given-name" = "שם פרטי";
+
+/*  */
+"activation-given-name-placeholder" = "ישראל";
+
+/*  */
+"allowed-exit-time" = "שעת יציאה מותרת";
+
+/*  */
+"coming-soon" = "בקרוב...";
+
+/*  */
+"done" = "סיום";
+
+/*  */
+"nfc-prompt" = "קרבו את הטלפון למסוף המותקן בשער";
+
+/*  */
+"no-actions-today" = "אין פעולות היום";
+
+/*  */
+"permits" = "אישורים";
+
+/*  */
+"today" = "היום";
+
+
+"today-actions-header" = "פעולות";
+
+/*  */
+"use-as-card" = "רישום";
+
+/*  */
+"welcome-continue" = "המשך";
+
+/*  */
+"welcome-continue-instruction" = "על מנת להמשיך, הכינו את קוד\nההפעלה שלכם";
+
+/*  */
+"welcome-header" = "ברוכים הבאים ל MyKey";
+
+/*  */
+"welcome-last-actions" = "פעולות אחרונות";
+
+/*  */
+"welcome-last-actions-desc" = "מעקב אחר הכניסות והיציאות האחרונות שלכם. התראות יסייעו לך לא לשכוח לסרוק כרטיס או טלפון במעבר בשער.";
+
+/*  */
+"welcome-permits" = "אישורי יציאה ";
+
+/*  */
+"welcome-permits-desc" = "הרשאת מעבר אוטומטית ביציאה בשעות מוגדרות. ניתן לבקש ממורים אישורי יציאה חד פעמיים.";
+
+/*  */
+"welcome-use-as-card" = "תחליף לכרטיס";
+
+/*  */
+"welcome-use-as-card-desc" = "אפליקציית MyKey יכולה להחליף את הכרטיס החכם שברשותכם. פשוט קרבו את הטפון לסורק בשער בית הספר.";

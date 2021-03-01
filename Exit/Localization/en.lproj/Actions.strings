@@ -1,0 +1,36 @@
+
+
+"_checked-in" = "Checked In";
+
+
+"_checked-out" = "Checked Out";
+
+/* 
+  Actions.strings
+  ExitStudents
+
+  Created by Dani Shifer on 12/18/19.
+  Copyright © 2019 Dani Shifer. All rights reserved.
+ */
+"_status-0" = "Pending";
+
+
+"_status-1" = "Approved";
+
+
+"_status-2" = "Rejected";
+
+
+"_unregistered" = "Unregistered";
+
+/* Account */
+"account" = "Account";
+
+
+"account-profile-header" = "Profile";
+
+
+"enter" = "Enter";
+
+
+"exit" = "Exit";

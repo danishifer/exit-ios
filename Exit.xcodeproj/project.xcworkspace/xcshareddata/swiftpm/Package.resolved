@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KeychainSwift",
+        "repositoryURL": "https://github.com/evgenyneu/keychain-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "d9b76fba09c2eb5c0bb9312092d309c833996cd2",
+          "version": "18.0.0"
+        }
+      },
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "6b6f4fe3385ed37389fb231bc40be81de2f1230f",
+          "version": "1.2.8"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa",
+        "state": {
+          "branch": null,
+          "revision": "11d7853b750f367525b174331e72f5431e15dfcc",
+          "version": "4.1.1"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "d2f6573960c84ebea3e0236047b3d976f95a5d7a",
+          "version": "5.23.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
