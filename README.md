@@ -2,10 +2,9 @@
 
 Exit is an attendance management system for schools.
 
-Backend developed in Golang with MongoDB.
-
 Frontend mobile apps developed natively in Swift for iOS, Kotlin for Android.
 
+Backend uses Node.js with Neo4j graph database.
 
 
 ![iOS Attendance](/screenshots/ios-1.png)
